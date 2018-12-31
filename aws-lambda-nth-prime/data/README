@@ -1,0 +1,17 @@
+# Data files
+
+All data files were collected over the course of several days.
+The first column of every data file is the allocated memory
+
+# Original timestamps 
+
+-rw-r--r--  1 raupach  staff  3624 Nov 14 14:41 data0.txt
+-rw-r--r--  1 raupach  staff  3622 Nov 14 15:05 data1.txt
+-rw-r--r--  1 raupach  staff  3635 Nov 14 17:40 data2.txt
+-rw-r--r--  1 raupach  staff  3635 Nov 15 10:29 data3.txt
+-rw-r--r--  1 raupach  staff  3634 Nov 15 13:48 data4.txt
+-rw-r--r--  1 raupach  staff  3635 Nov 15 16:02 data5.txt
+-rw-r--r--  1 raupach  staff  7252 Nov 22 10:50 data6.txt
+-rw-r--r--  1 raupach  staff  3626 Nov 22 11:08 data7.txt
+-rw-r--r--  1 raupach  staff  3611 Nov 22 13:08 data8.txt
+-rw-r--r--  1 raupach  staff  3627 Nov 22 22:18 data9.txt
