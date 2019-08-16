@@ -1,0 +1,20 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>org.raupachz</groupId>
+    <artifactId>aws-lambda-state</artifactId>
+    <packaging>jar</packaging>
+    <version>1.0</version>
+
+    <properties>
+        <project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
+    </properties>
+
+    <dependencies>
+        <dependency>
+            <groupId>com.amazonaws</groupId>
+            <artifactId>aws-lambda-java-core</artifactId>
+            <version>1.2.0</version>
+        </dependency>
+    </dependencies>
+
+</project>

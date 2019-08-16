@@ -1,0 +1,11 @@
+aws lambda invoke --function-name LambdaFunction 0.txt 
+aws lambda invoke --function-name LambdaFunction 1.txt 
+aws lambda invoke --function-name LambdaFunction 2.txt 
+aws lambda invoke --function-name LambdaFunction 3.txt 
+aws lambda invoke --function-name LambdaFunction 4.txt 
+aws lambda invoke --function-name LambdaFunction 5.txt 
+aws lambda invoke --function-name LambdaFunction 6.txt 
+aws lambda invoke --function-name LambdaFunction 7.txt 
+aws lambda invoke --function-name LambdaFunction 8.txt 
+aws lambda invoke --function-name LambdaFunction 9.txt 
+
